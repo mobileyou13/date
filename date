@@ -1,0 +1,17 @@
+[
+    {
+    "fb_banner" : "374656590357956_375105820313033",
+    "fb_interstitial" : "374656590357956_375106296979652",
+    "fb_native" : "374656590357956_374657303691218",	
+    "fb_mid_rect" : "374656590357956_375106613646287",	
+   "admob_pub_id" : "pub-5058918294716764",
+    "admob_app_id" : "ca-app-pub-9904041791940370~2457047928",
+    "admob_banner" : "ca-app-pub-9904041791940370/8639312896",	
+    "admob_interstitial" : "ca-app-pub-9904041791940370/1724574271",
+    "admob_native" : "ca-app-pub-9904041791940370/4159165927",	
+    "video_link" : true,
+    "ad_type" : "0",
+    "new_pkg" : "com.dating.videocall",
+    "is_version" : "false"
+  }
+]
